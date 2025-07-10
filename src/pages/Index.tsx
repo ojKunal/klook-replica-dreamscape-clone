@@ -2,8 +2,8 @@
 import Hero from "../components/Hero";
 import SearchSection from "../components/SearchSection";
 import PopularDestinations from "../components/PopularDestinations";
-import FeaturedPackages from "../components/FeaturedPackages";
-import WhyChooseUs from "../components/WhyChooseUs";
+import FeaturedActivities from "../components/FeaturedActivities";
+import AppPromo from "../components/AppPromo";
 import Testimonials from "../components/Testimonials";
 import Newsletter from "../components/Newsletter";
 import Footer from "../components/Footer";
@@ -16,8 +16,8 @@ const Index = () => {
       <Hero />
       <SearchSection />
       <PopularDestinations />
-      <FeaturedPackages />
-      <WhyChooseUs />
+      <FeaturedActivities />
+      <AppPromo />
       <Testimonials />
       <Newsletter />
       <Footer />
